@@ -3,7 +3,7 @@
 # Description du projet
 Ce projet est un site e-commerce dédié aux sneakers, regroupant une large gamme de modèles disponibles via une API. L'objectif est de permettre aux utilisateurs de parcourir, rechercher et acheter des sneakers directement en ligne. Le site a été développé en utilisant des technologies web courantes pour garantir une expérience utilisateur fluide et moderne.
 
-#Technologies utilisées
+# Technologies utilisées
 Backend :
 PHP : utilisé pour gérer la logique serveur, les appels API, et les interactions avec la base de données.
 Frontend :
