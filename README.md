@@ -5,7 +5,7 @@ Ce projet est un site e-commerce dédié aux sneakers, regroupant une large gamm
 
 # Technologies utilisées
 Backend :
-/n PHP : utilisé pour gérer la logique serveur, les appels API, et les interactions avec la base de données.
+\n PHP : utilisé pour gérer la logique serveur, les appels API, et les interactions avec la base de données.
 Frontend :
 HTML : utilisé pour structurer le contenu des pages web.
 CSS : utilisé pour le style et la mise en page des pages web.
